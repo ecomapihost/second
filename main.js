@@ -1,3 +1,3 @@
-document.getElementsByTagName('h2').addEventListener('click', function(){
+document.getElementById('arafat').addEventListener('click', function(){
     alert('Arafat')
 })
